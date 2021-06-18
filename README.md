@@ -1,5 +1,5 @@
 # GITS-SEB-Configs
-Location to report and debug issues with Safe Exam Browser Exam Configuration files
+Location to report and debug issues with Safe Exam Browser Exam Configuration files as used by Proctors of Gainesville Independent Testing Services, LLC
 
 
 Under "Code" you will find the most up-to-date versions of the SEB configuration files. Use these to start an Exam/Review and please pay attention to whether
@@ -8,12 +8,12 @@ their intended operating systems.
 
 These configuration files work with SEB version 3.2.0
 
-To exit SEB after finishing a testing session use Ctrl-Q (Windows), or CMD-Q (MacOS X)
-
 How to:
 
 Simply copy the .seb extension files to the candidates computer and then double click to launch an Exam/Review straight into a secure SEB session.
 SEB will then ask for a password. The current password is: gitsproctor
+To exit SEB after finishing a testing session use Ctrl-Q (Windows), or CMD-Q (MacOS X)
+
 
 
 If you encounter any difficulties using SEB with these extensions please create a new issue under "Issues" at the top and I will investigate.
