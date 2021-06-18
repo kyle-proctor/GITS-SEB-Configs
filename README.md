@@ -13,6 +13,7 @@ To exit SEB after finishing a testing session use Ctrl-Q (Windows), or CMD-Q (Ma
 How to:
 
 Simply copy the .seb extension files to the candidates computer and then double click to launch an Exam/Review straight into a secure SEB session.
+SEB will then ask for a password. The current password is: gitsproctor
 
 
 If you encounter any difficulties using SEB with these extensions please create a new issue under "Issues" at the top and I will investigate.
