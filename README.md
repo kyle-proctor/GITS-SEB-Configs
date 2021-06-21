@@ -11,7 +11,7 @@ These configuration files work with SEB version 3.2.0
 How to:
 
 Simply copy the .seb extension files to the candidates computer and then double click to launch an Exam/Review straight into a secure SEB session.
-SEB will then ask for a password. The current password is: gitsproctor
+SEB will then ask for a password. 
 To exit SEB after finishing a testing session use Ctrl-Q (Windows), or CMD-Q (MacOS X)
 
 
