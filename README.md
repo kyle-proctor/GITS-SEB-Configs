@@ -1,4 +1,12 @@
 # GITS-SEB-Configs
+
+Changelog----
+
+Uploaded MacOS Exam and Review Configs
+Fixed an issue with SEB stopping the Zoom screen share function
+
+
+
 Location to report and debug issues with Safe Exam Browser Exam Configuration files as used by Proctors of Gainesville Independent Testing Services, LLC
 
 
